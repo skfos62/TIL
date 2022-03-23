@@ -21,5 +21,5 @@
 [Html](Web/Html/Html.md)  
 [css](Web/Css/Css.md)  
 [Javascript-타입과 구문](Web/Javascript/javascript-타입과구문.md)  
-[Javascript-타입변환과 함수](Web/Javascript/javascript-타입변환과함수.md) 
+[Javascript-타입변환과 함수](Web/Javascript/javascript-타입변환과 함수.md) 
 
