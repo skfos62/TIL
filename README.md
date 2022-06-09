@@ -22,4 +22,6 @@
 [css](Web/Css/Css.md)  
 [Javascript-타입과 구문](Web/Javascript/javascript-타입과구문.md)  
 [Javascript-타입변환과 함수](Web/Javascript/javascript-타입변환과 함수.md) 
+[Javascript-프로토타입과 스코프](Web/Javascript/javascript-프로토타입과스코프.md)
+[Javascript-실행컨텍스트](Web/Javascript/javascript-실행컨텍스트.md) 
 
